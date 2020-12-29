@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f55e0b5-0b10-4d33-8c3e-32d585866fff" name="Default Changelist" comment="" />
+    <list default="true" id="3f55e0b5-0b10-4d33-8c3e-32d585866fff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1m7LNOlsjnhYofG1cRemeYaQPAc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +59,7 @@
       <workItem from="1608839643137" duration="3137000" />
       <workItem from="1608918076260" duration="879000" />
       <workItem from="1609164752114" duration="2773000" />
-      <workItem from="1609191095872" duration="11379000" />
+      <workItem from="1609191095872" duration="11711000" />
     </task>
     <servers />
   </component>
@@ -65,6 +71,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1609246723952" />
+    <state x="769" y="464" key="Github.ShareDialog" timestamp="1609246848874">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="769" y="464" key="Github.ShareDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1609246848874" />
     <state x="559" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1609238573720">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>

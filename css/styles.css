@@ -170,7 +170,8 @@ body {
 .div-main-block {
     background: linear-gradient(to right bottom, var(--first), var(--second));
     border-radius: 20px;
-    width: 380px;
+    width: 22%;
+    overflow: auto;
     height: 380px;
     padding: 0 10px;
     color: var(--div-block_text_color);
@@ -209,7 +210,7 @@ body {
 
 .div-skills {
     /*border: 3px solid black;*/
-    width: 380px;
+    width: 22%;
     color: black;
 }
 
