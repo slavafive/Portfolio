@@ -178,6 +178,10 @@ body {
     box-shadow: 0 0 11px rgba(33,33,33,.2);
 }
 
+.div-main-block:hover {
+    transform: translateY(1px);
+}
+
 .div-main-block h2 {
     color: var(--div-block_heading_color);
     text-align: center;
