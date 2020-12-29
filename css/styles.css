@@ -182,7 +182,6 @@ body {
     color: var(--div-block_heading_color);
     text-align: center;
     font-weight: normal;
-    /*border-bottom: 1px solid white;*/
     margin-bottom: 10px;
 }
 
@@ -200,6 +199,87 @@ body {
     font-weight: bold;
     display: inline-block;
     width: 1em;
+}
+
+/* Skill Bar */
+
+.div-skills {
+    /*border: 3px solid black;*/
+    width: 380px;
+    color: black;
+}
+
+.div-skills h3 {
+    margin-bottom: 10px;
+}
+
+.div-skills li {
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.bar {
+    background: #c1c4c2;
+    display: block;
+    height: 22px;
+    /*border: 1px solid rgba(255, 255, 255, 0.0);*/
+    border-radius: 5px;
+    overflow: hidden;
+    /*box-shadow: 0 0 10px #2187e7b3;*/
+}
+
+.bar span {
+    height: 22px;
+    float: left;
+    background: linear-gradient(var(--first), var(--second));
+    border-radius: 5px;
+    animation: expand 3s ease-in-out;
+}
+
+@keyframes expand {
+    0% {
+        opacity: 0;
+        transform: scaleX(0);
+    }
+
+    100% {
+        opacity: 1;
+        transform: scaleX(1);
+    }
+}
+
+/* Subjects */
+
+.mathematical-analysis {
+    width: 90%;
+}
+
+.linear-algebra {
+    width: 90%;
+}
+
+.mathematical-statistics {
+    width: 80%;
+}
+
+.discrete-math {
+    width: 85%;
+}
+
+.algorithms-and-data-structures {
+    width: 80%;
+}
+
+.object-oriented-programming {
+    width: 80%;
+}
+
+.operating-systems {
+    width: 75%;
+}
+
+.machine-learning {
+    width: 70%;
 }
 
 /* Projects */
