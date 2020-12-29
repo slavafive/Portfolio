@@ -233,18 +233,16 @@ body {
     float: left;
     background: linear-gradient(var(--first), var(--second));
     border-radius: 5px;
-    animation: expand 3s ease-in-out;
+    animation: expand 4s ease-in-out;
 }
 
 @keyframes expand {
     0% {
-        opacity: 0;
-        transform: scaleX(0);
+        width: 0;
     }
 
     100% {
-        opacity: 1;
-        transform: scaleX(1);
+        width: available;
     }
 }
 
