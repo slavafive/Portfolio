@@ -226,10 +226,8 @@ body {
     background: #c1c4c2;
     display: block;
     height: 22px;
-    /*border: 1px solid rgba(255, 255, 255, 0.0);*/
     border-radius: 5px;
     overflow: hidden;
-    /*box-shadow: 0 0 10px #2187e7b3;*/
 }
 
 .bar span {
@@ -253,7 +251,7 @@ body {
 /* Subjects */
 
 .mathematical-analysis {
-    width: 90%;
+    width: 85%;
 }
 
 .linear-algebra {
@@ -289,12 +287,11 @@ body {
 .div-projects {
     width: 95vw;
     position: relative;
-    padding: 20px;
+    padding-left: 30px;
 }
 
 .div-projects h2 {
     color: var(--heading_color);
-    margin-bottom: 20px;
 }
 
 .link {
@@ -307,7 +304,6 @@ body {
     display: inline-block;
     float: left;
     margin-right: 20px;
-    /*animation: rotation 30s infinite linear;*/
     -webkit-transition: -webkit-transform 1s ease-in-out;
     transition: transform 1s ease-in-out;
 }

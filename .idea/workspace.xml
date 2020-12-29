@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -30,12 +30,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Run" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Portfolio/html/main.html" useBuiltInWebServerPort="true">
+    <configuration name="Run" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Portfolio/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
   </component>
@@ -50,7 +53,7 @@
       <workItem from="1608839643137" duration="3137000" />
       <workItem from="1608918076260" duration="879000" />
       <workItem from="1609164752114" duration="2773000" />
-      <workItem from="1609191095872" duration="9676000" />
+      <workItem from="1609191095872" duration="11379000" />
     </task>
     <servers />
   </component>
@@ -58,10 +61,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="222" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609238601243">
+    <state x="360" y="222" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609246723952">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="360" y="222" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1609238601243" />
+    <state x="360" y="222" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1609246723952" />
     <state x="559" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1609238573720">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
