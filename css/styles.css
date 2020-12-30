@@ -1,15 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
 
+/* Purple Theme */
+
+/*:root {*/
+/*    --first: #de3fcf;*/
+/*    --second: #930be7;*/
+/*    --heading-color: #a714c1;*/
+/*    --link-color: #b810cb;*/
+/*    --div-block-heading-color: #ffffff;*/
+/*    --div-block-bullet-color: #ffffff;*/
+/*    --div-block-text-color: #000000;*/
+/*}*/
+
 /* Blue Theme */
 
 /*:root {*/
-/*    --first: #0d93d0;*/
-/*    --second: #0ab0e2;*/
-/*    --heading_color: #159be3;*/
-/*    --link-color: #159be3;*/
-/*    --div-block_heading_color: #ffffff;*/
-/*    --div_block_bullet_color: #ffffff;*/
-/*    --div-block_text_color: #000000;*/
+/*    --first: #13abd9;*/
+/*    --second: #0e7ed4;*/
+/*    --heading-color: #149fc1;*/
+/*    --link-color: #10afcb;*/
+/*    --div-block-heading-color: #ffffff;*/
+/*    --div-block-bullet-color: #ffffff;*/
+/*    --div-block-text-color: #000000;*/
 /*}*/
 
 
@@ -18,11 +30,11 @@
 :root {
     --first: #7ed56f;
     --second: #28b485;
-    --heading_color: #55c57a;
+    --heading-color: #55c57a;
     --link-color: #55c57a;
-    --div-block_heading_color: #ffffff;
-    --div_block_bullet_color: #ffffff;
-    --div-block_text_color: #000000;
+    --div-block-heading-color: #ffffff;
+    --div-block-bullet-color: #ffffff;
+    --div-block-text-color: #000000;
 }
 
 * {
@@ -154,7 +166,7 @@ body {
 
 .heading {
     text-align: center;
-    color: var(--heading_color);
+    color: var(--heading-color);
     font-weight: 700;
     font-size: 50px;
     margin: 50px 0;
@@ -174,7 +186,7 @@ body {
     overflow: auto;
     height: 380px;
     padding: 0 10px;
-    color: var(--div-block_text_color);
+    color: var(--div-block-text-color);
     text-align: left;
     box-shadow: 0 0 11px rgba(33,33,33,.2);
 }
@@ -184,7 +196,7 @@ body {
 }
 
 .div-main-block h2 {
-    color: var(--div-block_heading_color);
+    color: var(--div-block-heading-color);
     text-align: center;
     font-weight: normal;
     margin-bottom: 10px;
@@ -200,7 +212,7 @@ body {
 
 .div-main-block ul li::before {
     content: "\2022";
-    color: var(--div_block_bullet_color);
+    color: var(--div-block-bullet-color);
     font-weight: bold;
     display: inline-block;
     width: 1em;
@@ -234,7 +246,7 @@ body {
 .bar span {
     height: 22px;
     float: left;
-    background: linear-gradient(var(--first), var(--second));
+    background: linear-gradient(to right, var(--first), var(--second));
     border-radius: 5px;
     animation: expand 4s ease-in-out;
 }
@@ -292,7 +304,7 @@ body {
 }
 
 .div-projects h2 {
-    color: var(--heading_color);
+    color: var(--heading-color);
 }
 
 .link {
@@ -345,7 +357,7 @@ body {
     display: inline-block;
     width: 110px;
     height: 110px;
-    background: linear-gradient(to right bottom, #7ed56f, #28b485);
+    background: linear-gradient(to right bottom, var(--first), var(--second));
     color: #ffffff;
     border-radius: 50%;
     box-shadow: 0 10px 20px rgba(0, 0, 0, .2);
