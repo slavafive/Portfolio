@@ -271,12 +271,12 @@ body {
     width: 100%;
 }
 
-.mathematical-statistics {
-    width: 100%;
-}
-
 .discrete-math {
     width: 91%;
+}
+
+.mathematical-statistics {
+    width: 100%;
 }
 
 .algorithms-and-data-structures {
@@ -287,8 +287,8 @@ body {
     width: 90%;
 }
 
-.operating-systems {
-    width: 80%;
+.databases {
+    width: 100%;
 }
 
 .machine-learning {
