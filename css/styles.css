@@ -264,35 +264,35 @@ body {
 /* Subjects */
 
 .mathematical-analysis {
-    width: 85%;
+    width: 95%;
 }
 
 .linear-algebra {
-    width: 90%;
+    width: 100%;
 }
 
 .mathematical-statistics {
-    width: 80%;
+    width: 100%;
 }
 
 .discrete-math {
-    width: 85%;
+    width: 91%;
 }
 
 .algorithms-and-data-structures {
-    width: 80%;
+    width: 87%;
 }
 
 .object-oriented-programming {
-    width: 80%;
+    width: 90%;
 }
 
 .operating-systems {
-    width: 75%;
+    width: 80%;
 }
 
 .machine-learning {
-    width: 70%;
+    width: 76%;
 }
 
 /* Projects */
