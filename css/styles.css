@@ -222,7 +222,7 @@ body {
 
 .div-skills {
     /*border: 3px solid black;*/
-    width: 22%;
+    width: 35%;
     color: black;
 }
 
@@ -264,19 +264,19 @@ body {
 /* Subjects */
 
 .mathematical-analysis {
-    width: 95%;
+    width: 94%;
 }
 
 .linear-algebra {
-    width: 100%;
+    width: 96%;
 }
 
 .discrete-math {
-    width: 91%;
+    width: 92%;
 }
 
 .mathematical-statistics {
-    width: 100%;
+    width: 90%;
 }
 
 .algorithms-and-data-structures {
@@ -288,7 +288,7 @@ body {
 }
 
 .databases {
-    width: 100%;
+    width: 95%;
 }
 
 .machine-learning {

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f55e0b5-0b10-4d33-8c3e-32d585866fff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -64,7 +65,9 @@
       <workItem from="1609274152893" duration="157000" />
       <workItem from="1609320852722" duration="917000" />
       <workItem from="1609440651183" duration="342000" />
-      <workItem from="1609537781592" duration="338000" />
+      <workItem from="1609537781592" duration="640000" />
+      <workItem from="1609757956142" duration="43000" />
+      <workItem from="1611001976568" duration="1343000" />
     </task>
     <servers />
   </component>
@@ -80,9 +83,9 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="769" y="464" key="Github.ShareDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1609246848874" />
-    <state x="559" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1609238573720">
+    <state x="559" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1611002699299">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="559" y="249" width="672" height="678" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1609238573720" />
+    <state x="559" y="249" width="672" height="678" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1611002699299" />
   </component>
 </project>
