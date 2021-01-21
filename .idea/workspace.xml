@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3f55e0b5-0b10-4d33-8c3e-32d585866fff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Run" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Portfolio/index.html" useBuiltInWebServerPort="true">
+    <configuration name="Run" type="JavascriptDebugType" uri="http://localhost:63342/Portfolio/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
   </component>
@@ -67,7 +65,7 @@
       <workItem from="1609440651183" duration="342000" />
       <workItem from="1609537781592" duration="640000" />
       <workItem from="1609757956142" duration="43000" />
-      <workItem from="1611001976568" duration="1343000" />
+      <workItem from="1611001976568" duration="2046000" />
     </task>
     <servers />
   </component>
@@ -75,10 +73,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="222" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609246723952">
+    <state x="360" y="222" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611004482982">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="360" y="222" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1609246723952" />
+    <state x="360" y="222" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1611004482982" />
     <state x="769" y="464" key="Github.ShareDialog" timestamp="1609246848874">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
