@@ -30,7 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -69,6 +69,8 @@
       <workItem from="1611222063881" duration="331000" />
       <workItem from="1611668154619" duration="119000" />
       <workItem from="1612115074597" duration="950000" />
+      <workItem from="1612988157371" duration="398000" />
+      <workItem from="1613944057211" duration="556000" />
     </task>
     <servers />
   </component>
