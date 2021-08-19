@@ -264,7 +264,7 @@ body {
 /* Subjects */
 
 .mathematical-analysis {
-    width: 94%;
+    width: 100%;
 }
 
 .linear-algebra {
@@ -272,7 +272,7 @@ body {
 }
 
 .discrete-math {
-    width: 92%;
+    width: 94%;
 }
 
 .algorithms-and-data-structures {
