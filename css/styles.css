@@ -43,6 +43,14 @@
     box-sizing: border-box;
 }
 
+hr {
+    margin: 5px 0;
+}
+
+h2 {
+    font-size: 23px;
+}
+
 body {
     font-family: 'Futura';
     /*font-family: 'Comfortaa', cursive;*/
@@ -137,6 +145,10 @@ body {
         opacity: 1;
         transform: translate(0);
     }
+}
+
+.btn {
+    margin-top: 8px;
 }
 
 .btn:link,
@@ -264,7 +276,7 @@ body {
 /* Subjects */
 
 .mathematical-analysis {
-    width: 100%;
+    width: 97%;
 }
 
 .linear-algebra {
@@ -279,8 +291,8 @@ body {
     width: 87%;
 }
 
-.operating-systems {
-    width: 80%;
+.statistics {
+    width: 100%;
 }
 
 .object-oriented-programming {
