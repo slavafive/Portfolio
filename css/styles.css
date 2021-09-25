@@ -329,8 +329,8 @@ body {
     display: inline-block;
     float: left;
     margin-right: 20px;
-    -webkit-transition: -webkit-transform 1s ease-in-out;
-    transition: transform 1s ease-in-out;
+    /*-webkit-transition: -webkit-transform 1s ease-in-out;*/
+    /*transition: transform 1s ease-in-out;*/
 }
 
 .img-atom:hover {
