@@ -299,7 +299,15 @@ body {
     width: 90%;
 }
 
+.programming-technologies {
+    width: 100%;
+}
+
 .databases {
+    width: 100%;
+}
+
+.database-design {
     width: 100%;
 }
 
