@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 
 /* Purple Theme */
 
@@ -52,8 +52,7 @@ h2 {
 }
 
 body {
-    font-family: 'Futura';
-    /*font-family: 'Comfortaa', cursive;*/
+    font-family: 'Futura', 'Lato';
     font-weight: 400;
     font-size: 18px;
     text-align: justify;
