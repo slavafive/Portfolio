@@ -295,12 +295,20 @@ body {
     width: 100%;
 }
 
+.web-development {
+    width: 85%;
+}
+
 .object-oriented-programming {
     width: 90%;
 }
 
 .programming-technologies {
     width: 100%;
+}
+
+.operating-systems {
+    width: 80%;
 }
 
 .databases {
