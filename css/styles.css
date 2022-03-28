@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
 
 /* Purple Theme */
 
@@ -196,11 +196,10 @@ body {
 .div-main-block {
   background: linear-gradient(to right bottom, var(--first), var(--second));
   border-radius: 20px;
-  width: 400px;
-  /* flex-grow: 1; */
-  height: 400px;
+  width: 410px;
+  height: 410px;
   overflow: auto;
-  padding: 0 10px;
+  padding: 20px;
   color: var(--div-block-text-color);
   text-align: left;
   box-shadow: 4px 4px 10px rgba(33, 33, 33, 0.2);
@@ -400,7 +399,7 @@ body {
 @media (max-width: 1300px) {
   .div-main-block {
     width: 320px;
-    height: 500px;
+    height: 530px;
   }
 
   .text-box {
@@ -411,8 +410,8 @@ body {
 
 @media (max-width: 1050px) {
   .div-main-block {
-    width: 400px;
-    height: 400px;
+    width: 80%;
+    height: auto;
     margin-bottom: 30px;
   }
 
@@ -422,7 +421,7 @@ body {
   }
 
   .div-skills {
-    width: 75%;
+    width: 80%;
   }
 
   .div-contacts a {
