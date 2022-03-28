@@ -69,7 +69,7 @@ body {
     url("../images/mountains.jpg");
   background-size: cover;
   background-position: top;
-  clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
   position: relative;
   margin-bottom: 50px;
 }
@@ -402,6 +402,10 @@ body {
     height: 500px;
   }
 
+  .text-box {
+    top: 35%;
+    left: 65%;
+  }
 }
 
 @media (max-width: 1050px) {
@@ -425,12 +429,40 @@ body {
     height: 90px;
   }
 
+  .logo {
+    height: 250px;
+  }
+
+  .text-box {
+    top: 35%;
+    left: 70%;
+  }
 }
 
 @media (max-width: 600px) {
-
   .div-contacts a {
     width: 75px;
     height: 75px;
+  }
+
+  .logo-box {
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .text-box {
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .heading-primary {
+    margin-bottom: 0;
+  }
+
+  .btn:link,
+  .btn:visited {
+    padding: 15px 25px;
   }
 }
