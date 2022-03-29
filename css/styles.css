@@ -61,7 +61,7 @@ body {
 }
 
 .header {
-  height: 95vh;
+  height: 80vh;
   background-image: linear-gradient(
       to right bottom,
       rgba(126, 213, 111, 0.8),
@@ -77,12 +77,13 @@ body {
 
 .logo-box {
   position: absolute;
-  top: 40px;
-  left: 40px;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .logo {
-  height: 330px;
+  height: 20rem;
   border-radius: 50%;
   border: 5px solid #ffffff;
   box-shadow: 10px 0 10px rgba(133, 133, 133, 0.5);
@@ -90,7 +91,7 @@ body {
 
 .text-box {
   position: absolute;
-  top: 40%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -103,15 +104,15 @@ body {
 
 .heading-primary-main {
   display: block;
-  font-size: 60px;
+  font-size: 40px;
   font-weight: 400;
-  letter-spacing: 15px;
+  /* letter-spacing: 15px; */
   animation: moveInLeft 1s ease-out;
 }
 
 .heading-primary-sub {
   display: block;
-  font-size: 38px;
+  font-size: 24px;
   font-weight: 600;
   animation: moveInRight 1s ease-out;
 }
@@ -401,11 +402,6 @@ body {
     width: 320px;
     height: 530px;
   }
-
-  .text-box {
-    top: 35%;
-    left: 65%;
-  }
 }
 
 @media (max-width: 1050px) {
@@ -428,33 +424,12 @@ body {
     width: 90px;
     height: 90px;
   }
-
-  .logo {
-    height: 250px;
-  }
-
-  .text-box {
-    top: 35%;
-    left: 70%;
-  }
 }
 
 @media (max-width: 600px) {
   .div-contacts a {
     width: 75px;
     height: 75px;
-  }
-
-  .logo-box {
-    top: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
-  .text-box {
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
   }
 
   .heading-primary {
