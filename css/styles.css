@@ -421,17 +421,16 @@ body {
   }
 
   .div-contacts a {
-    width: 90px;
-    height: 90px;
+    width: 85px;
+    height: 85px;
+  }
+
+  .div-contacts a i {
+    font-size: 40px;
   }
 }
 
 @media (max-width: 600px) {
-  .div-contacts a {
-    width: 75px;
-    height: 75px;
-  }
-
   .heading-primary {
     margin-bottom: 0;
   }
@@ -439,5 +438,14 @@ body {
   .btn:link,
   .btn:visited {
     padding: 15px 25px;
+  }
+
+  .div-contacts a {
+    width: 70px;
+    height: 70px;
+  }
+
+  .div-contacts a i {
+    font-size: 34px;
   }
 }
