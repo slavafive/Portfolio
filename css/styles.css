@@ -14,16 +14,16 @@
 /*}*/
 
 /* Blue Theme */
-
-/*:root {*/
-/*    --first: #13abd9;*/
-/*    --second: #0e7ed4;*/
-/*    --heading-color: #149fc1;*/
-/*    --link-color: #10afcb;*/
-/*    --div-block-heading-color: #ffffff;*/
-/*    --div-block-bullet-color: #ffffff;*/
-/*    --div-block-text-color: #000000;*/
-/*}*/
+/* 
+:root {
+    --first: #13abd9;
+    --second: #0e7ed4;
+    --heading-color: #149fc1;
+    --link-color: #10afcb;
+    --div-block-heading-color: #ffffff;
+    --div-block-bullet-color: #ffffff;
+    --div-block-text-color: #000000;
+} */
 
 /* Green Theme */
 
@@ -70,7 +70,7 @@ body {
     url("../images/mountains.jpg");
   background-size: cover;
   background-position: top;
-  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+  clip-path: polygon(1.5% 0, 98.5% 0, 98.5% 85%, 1.5% 100%);
   position: relative;
   margin-bottom: 50px;
 }
