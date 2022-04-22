@@ -298,12 +298,16 @@ body {
   width: 100%;
 }
 
-.web-development {
-  width: 85%;
+.uml {
+  width: 79%;
 }
 
 .object-oriented-programming {
   width: 90%;
+}
+
+.web-development {
+  width: 85%;
 }
 
 .programming-technologies {
@@ -324,6 +328,10 @@ body {
 
 .machine-learning {
   width: 76%;
+}
+
+.data-analysis {
+  width: 95%;
 }
 
 /* Projects */
