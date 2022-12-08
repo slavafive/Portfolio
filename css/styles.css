@@ -54,7 +54,7 @@ h2 {
 body {
   font-family: "Quicksand", "Futura", "Lato";
   font-weight: 400;
-  font-size: 18px;
+  font-size: 15px;
   text-align: justify;
   line-height: 1.7;
   padding: 30px;
@@ -201,6 +201,14 @@ body {
   flex-wrap: wrap;
 }
 
+.div-main-2-blocks {
+  justify-content: space-evenly;
+}
+
+.div-education {
+  margin-bottom: 80px;
+}
+
 .div-main-block {
   background: linear-gradient(to right bottom, var(--first), var(--second));
   border-radius: 20px;
@@ -238,6 +246,17 @@ body {
   font-weight: bold;
   display: inline-block;
   width: 1em;
+}
+
+.div-main-block-small {
+  width: 20%;
+  height: 240px;
+}
+
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Skill Bar */
@@ -408,6 +427,14 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+/* Text links */
+
+.text-link {
+  color: black;
+  font-style: italic;
+  text-decoration: none;
 }
 
 /* Media queries */
