@@ -3,19 +3,19 @@
 
 /* Purple Theme */
 
-/*:root {*/
-/*    --first: #de3fcf;*/
-/*    --second: #930be7;*/
-/*    --heading-color: #a714c1;*/
-/*    --link-color: #b810cb;*/
-/*    --div-block-heading-color: #ffffff;*/
-/*    --div-block-bullet-color: #ffffff;*/
-/*    --div-block-text-color: #000000;*/
-/*}*/
+/* :root {
+   --first: #de3fcf;
+   --second: #930be7;
+   --heading-color: #a714c1;
+   --link-color: #b810cb;
+   --div-block-heading-color: #ffffff;
+   --div-block-bullet-color: #ffffff;
+   --div-block-text-color: #000000;
+} */
 
 /* Blue Theme */
-/* 
-:root {
+
+/* :root {
     --first: #13abd9;
     --second: #0e7ed4;
     --heading-color: #149fc1;
@@ -163,7 +163,7 @@ body {
 .btn:link,
 .btn:visited {
   text-decoration: none;
-  padding: 15px 40px;
+  padding: 15px 30px;
   display: inline-block;
   border-radius: 100px;
   transition: all 0.2s;
