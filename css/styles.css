@@ -250,7 +250,8 @@ body {
 
 .div-main-block-small {
   width: 20%;
-  height: 240px;
+  max-height: 240px;
+  margin-bottom: 20px;
 }
 
 .image-center {
